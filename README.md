@@ -2,7 +2,7 @@
 This repository is dedicated to the final project for Data Visualization class at CentraleSupelec. 
 
 ### Project Description
-* The CO2 emission has increased significantly in the past 300 years, primarily as the result of industrialization. However, with the implementation of international conventions like United Nations Climate Change Conference (COP) and with people's awareness of sustainable lifestyle, there has been new trends and insights in the CO2 emission levels around the world. 
+* The CO2 emission has increased significantly in the past 300 years, primarily as the result of industrialization. However, with the implementation of international conventions like United Nations Framework Convention on Climate Change and with people's awareness of sustainable lifestyle, there has been new trends and insights in the CO2 emission levels around the world. 
 * Therefore, our team decided to analyze the worldwide CO2 emission throughout time by creating a visualization tool in Python. 
 
 ### Data

@@ -15,3 +15,6 @@ This repository is dedicated to the final project for Data Visualization class a
 
 ### Web Application
 If you want to utilize the visualization tool independently, please visit the web application realized through hugging face: https://huggingface.co/spaces/asdf654/panel_dv
+
+### Video Presentation
+A video presentation of our project can be found through the Youtube channel link sent to the professor.

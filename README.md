@@ -10,11 +10,12 @@ This repository is dedicated to the final project for Data Visualization class a
 * Here we focused mainly on 2 target variables: CO2 (annual total production-based emissions of carbon dioxide (CO₂), excluding land-use change, measured in million tonnes) and on CO2_per_capita (annual total production-based emissions of carbon dioxide (CO₂), excluding land-use change, measured in tonnes per person).The variables were explored on various scope levels (country, continent, etc.). 
 
 ### Output
-* We created 4 charts: a line plot for CO2 emission and CO2 emission per capita data for each year, a geographical heatmap showing each country's emission level for each year, a scatterplot of each continent's total emission during 2002 and 2021 and a bar chart of 2021's world population per continent. The first two charts have the feature of slider and dropdown widgets where you can interact with the graph by changing the year scope. The last two views are connected to each other by an interactive function where you can click on the continent's population data to visulize only the CO2 emission trends for that specific continent. 
+* We created 4 charts: a line plot for CO2 emission and CO2 emission per capita data for each year, a geographical heatmap showing each country's emission level for each year, a scatterplot of each continent's total emission during 2002 and 2021 and a bar chart of 2021's world population per continent. The first two charts have the feature of slider and dropdown widgets where you can interact with the graph by changing the year scope. The last two views are connected to each other by an interactive function where you can click on the continent's population data to visualize only the CO2 emission trends for that specific continent. 
 * The four charts can be viewed synthetically in a python panel at the end of the notebook. 
 
 ### Web Application
 If you want to utilize the visualization tool independently, please visit the web application realized through hugging face: https://huggingface.co/spaces/asdf654/panel_dv
 
-### Video Presentation
-A video presentation of our project can be found through the Youtube channel link sent to the professor.
+### Presentation
+A pdf format of our presentation slides can be found in the files.
+</br>A video presentation of our project can be found through the Youtube channel link sent to the professor.

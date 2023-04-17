@@ -17,5 +17,5 @@ This repository is dedicated to the final project for Data Visualization class a
 If you want to utilize the visualization tool independently, please visit the web application realized through hugging face: https://huggingface.co/spaces/asdf654/panel_dv
 
 ### Presentation
-You can find a pdf format of our presentation slides in the files where we concluded our project details and our major insights about the graphs.
-</br>A video presentation of our project can be also found through the Youtube channel link sent to the professor.
+* You can find a pdf format of our presentation slides in the files where we concluded our project details and our major insights about the graphs.
+* A video presentation of our project can be also found through the Youtube channel link sent to the professor.
